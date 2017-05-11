@@ -1,0 +1,35 @@
+body, html{
+  margin: 0;
+  padding: 0;
+  background: #b03fd5;
+}
+.container{
+  text-align: center;
+  margin: 0 auto;
+  padding: 300px 40px 40px 40px;
+  color:#fff;
+}
+
+h1{
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+label{
+  padding: 20px;
+}
+span{
+  text-decoration: underline;
+  font-size: 20px;
+}
+button{
+  margin: 20px;
+  font-size: 20px;
+  background-color: #A5FFFF;
+  outline: none;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 20px;
+}
+button:hover{
+  cursor: pointer;
+}
